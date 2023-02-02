@@ -28,7 +28,7 @@ trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h4>
   
   
   
- ![Snake animation](https://github.com/seu-usuário-aqui/Ciure/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Ciure/Ciure/blob/output/github-contribution-grid-snake.svg)
   
   
   
