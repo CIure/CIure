@@ -1,13 +1,13 @@
-<h4> Olá a todos, prazer Carlos Iure, estou iniciando na carreira de Desenvolvedor agora :)
+<h3> Olá a todos, prazer Carlos Iure, estou iniciando na carreira de Desenvolvedor agora :)
 Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. 
 Focado principalmente na parte Front-End, estou avançando meus conhecimentos em termos 
 básicos como Html-Css-JavaScript, mas não penso muito só nesta parte, atualmente estou 
-trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h4>
+trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
 
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/CIure">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciure&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CIure&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>
