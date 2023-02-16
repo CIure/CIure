@@ -13,6 +13,9 @@ trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
 </div>
 
 
+  ![Snake animation](https://github.com/Ciure/Ciure/blob/output/github-contribution-grid-snake.svg)
+  
+  
 <h1 style="font-weigth:bold"> Atualmente Estudando:</h1> 
   
   
@@ -28,7 +31,7 @@ trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
   
   
   
- ![Snake animation](https://github.com/Ciure/Ciure/blob/output/github-contribution-grid-snake.svg)
+
   
   
   
