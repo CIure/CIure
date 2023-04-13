@@ -4,15 +4,15 @@ Focado principalmente na parte Front-End, estou avançando meus conhecimentos em
 básicos como Html-Css-JavaScript, mas não penso muito só nesta parte, atualmente estou 
 trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
 
-
+____
 
 <div>
 <a href="https://github.com/CIure">
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciure&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=CIure&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciure&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CIure&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>
 
-
+____
   ![Snake animation](https://github.com/Ciure/Ciure/blob/output/github-contribution-grid-snake.svg)
   
   
