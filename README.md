@@ -6,7 +6,7 @@ trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
 
 ____
 
-<div>
+<div align="center">
 <a href="https://github.com/CIure">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciure&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CIure&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
